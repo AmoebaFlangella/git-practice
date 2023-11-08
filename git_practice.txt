@@ -1,4 +1,8 @@
 Text for text that texts a text to text
 I love texting text that gets texted texty
 Yay text!
+<<<<<<< HEAD
 hellotherepc
+=======
+hellotheregit
+>>>>>>> 72b2343de80afd1e6f9500c21cc4d5d7e30f3c04
