@@ -1,6 +1,10 @@
-Pickles
+Pickles (don't need anymore)
 Oysters
 Safron
 Caviar
 Axe
+<<<<<<< HEAD
 Sword
+=======
+Sword (need rlly important)
+>>>>>>> 1fc656ce73bcfe7354ec7ee8f04784e4cb9c7445
